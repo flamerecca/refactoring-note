@@ -21,8 +21,6 @@
 
 在網頁開發上面，如果有使用 MVC 框架的話，這種狀況比較容易出現在 Controller 身上。因為每次需要功能的時候，直覺會想要在既有的 Controller 裡面加入新的函式，並
 
-
-
 ## 過長參數列（Long Parameter List）
 
 ## 註解太多（Comment）
