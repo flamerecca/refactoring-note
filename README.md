@@ -1,3 +1,7 @@
-# My Awesome Book
+# 重構讀書筆記
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+重構這本書已經很長時間了，不過一直沒時間好好把這本書念完。  
+而且裡面的程式碼是用 Java 寫的，有時候看起來不是很習慣，要思考一下。
+
+這邊用我工作上面熟悉的 PHP 整理一下。
+
