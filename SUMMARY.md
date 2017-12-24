@@ -1,7 +1,8 @@
 # Summary
 
 * [簡介](README.md)
-* [程式碼問題](/codeProblem.md)
+* [程式碼問題](/problem/codeProblem.md)
+  * [基礎問題](/problem/simple.md)
 * [解決](/solution.md)
   * [重複的程式碼](/solution/duplicate_code.md)
   * [過長函式](/solution/long_function.md)
